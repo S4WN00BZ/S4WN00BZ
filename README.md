@@ -1,2 +1,1 @@
-
-<img src="[LINK](https://github.com/S4WN00BZ/S4WN00BZ/blob/51adb915581b9d43607d588d053264328d2e63bf/wpnzz.png)" width="300"> 
+![image alt](https://github.com/S4WN00BZ/S4WN00BZ/blob/e9c6f7ec9580c553ec970e5e1702c26c362752a0/wpnz2.png)
